@@ -1,0 +1,7 @@
+githubからetheriaをclone
+mkdir etheria-frontend; cd etheria-frontend; mkdir docs; new-item docs/log;
+npx sv create .
+directory not empty. continue? -> yes
+which template would you like? -> svelte kit minimal
+add type checking with typescript? -> yes
+what would  you like to add to your project? -> vitest, playwright, tailwindcss, sveltekit-adapter, mdsvex, storybook, biome (todo: lucia)
